@@ -8,11 +8,11 @@ This project presents a dynamic sales analytics dashboard built using Power BI, 
 ### 2. Key Dashboard Visuals (📸 Snapshots)
 
 #### 🔝 Top Product Categories by Revenue & Profit Trend 
-![Product Category Analysis]([./assets/images/store_category_snapshot.png](https://github.com/SoumyaShahh/Sales-Analytics/blob/main/Sales%20Analytics%20Dashboard-1.png))
+![Product Category Analysis](https://github.com/SoumyaShahh/Sales-Analytics/blob/main/Sales%20Analytics%20Dashboard-1.png)
 
 
 #### 🌎 Geo Revenue Analysis & Agent-wise Performance  
-![Geographical](./assets/images/geographical_snapshot.png)
+![Geographical](https://github.com/SoumyaShahh/Sales-Analytics/blob/main/Sales%20Analytics%20Dashboard-2.png)
 
 
 ## 🎯 Objectives
