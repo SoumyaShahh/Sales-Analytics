@@ -55,3 +55,7 @@ This project presents a dynamic sales analytics dashboard built using Power BI, 
 - 📍 **Product Profitability Insights:** Toys & Games and Outdoor products bring highest margin and customer retention.
 - 📍 **Agent Performance Tracking:** Helps target coaching to low performers and reward top agents.
 - 📍 **Peak Sales Timing:** Monthly and weekday trends reveal ideal windows for promotions and stocking.
+
+## Contributors
+- Soumya Shah
+- Minita Joshee
