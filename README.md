@@ -5,7 +5,7 @@
 
 This project presents a dynamic sales analytics dashboard built using Power BI, focused on uncovering key trends and performance metrics from store-level sales data. The goal is to empower retail decision-makers, analysts, and managers with actionable insights on revenue, profit margins, shipping efficiency, customer behavior, and product performance across regions, categories, and time frames.
 
-### 2. Key Dashboard Visuals (📸 Snapshots)
+### 2. Key Dashboard Visuals 
 
 #### 🔝 Top Product Categories by Revenue & Profit Trend 
 ![Product Category Analysis](https://github.com/SoumyaShahh/Sales-Analytics/blob/main/Sales%20Analytics%20Dashboard-1.png)
